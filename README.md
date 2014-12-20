@@ -1,11 +1,11 @@
 impossible-bet
 ==============
 
-Proof for the impossible bet problem.
+Proof for the impossible bet problem. It is also called the "100 Prisoners Problem"
 
-I first saw this on YouTube on the Minute Physics channel.
+The 100 prisoners problem is a mathematical problem from probability theory and combinatorics. In this problem, in order to survive, 100 prisoners have to find their own numbers in one of 100 drawers. Thereby, each prisoner may open only 50 of the drawers and cannot communicate with the other prisoners. At first glance the situation appears hopeless, but a clever strategy exists which offers the prisoners a realistic chance of survival. The problem was first posed in 2003 by Danish computer scientist Peter Bro Miltersen.
 
-Direct link: https://www.youtube.com/watch?v=C5-I0bAuEUE
+Quoted from: http://en.m.wikipedia.org/wiki/100_prisoners_problem
 
 
 How to use
