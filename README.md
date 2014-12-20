@@ -27,12 +27,21 @@ php ./impossible-bet.php 100
 Examples:
 
 john$ php impossible-bet.php 100
+
 Total Wins: 28
+
 Total Losses: 72
+
 Trials: 100
+
 Win %: 28
+
 john$ php impossible-bet.php 1000
+
 Total Wins: 318
+
 Total Losses: 682
+
 Trials: 1,000
+
 Win %: 32
